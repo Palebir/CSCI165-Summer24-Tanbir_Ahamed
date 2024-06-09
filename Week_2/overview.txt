@@ -1,0 +1,29 @@
+Week Two Overview
+
+Due Dates: The lab should be pushed to your repo by Monday morning 2/5/2024 at 8:30 AM
+
+During this week you will complete the following
+	~ Lab Assignment on Java primitives and some classes dealing with Strings, Dates and Times
+
+New Topics: During this week we will be covering the following new topics
+	~ More info on primitive types and type casting
+	~ The Java API
+	~ Creating objects from Java library classes
+	~ Using static features of classes
+	~ Brief preview of Input and Output
+
+Files in the repository
+=======================
+Week_2
+├── code
+│   ├── HelloWorld.java
+│   └── ParseDemo.java
+├── lab
+│   ├── CSCI165_LabAssignment_Week2.pdf
+│   ├── LabPrep.java
+│   └── UTC.java
+└── reading
+    ├── Data_and_Variables.pdf
+    └── Java_Overview.pdf
+
+4 directories, 7 files
